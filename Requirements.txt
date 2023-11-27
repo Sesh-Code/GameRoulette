@@ -1,0 +1,7 @@
+PyQt6
+random
+requests
+pygame
+sv_ttk
+tkinter
+tkinter.ttk
